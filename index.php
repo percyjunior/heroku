@@ -1,1 +1,1 @@
-<?php header( 'D:/8vo_Semestre/Ingenieria Web/Primer Parcial/heroku: /index.html' ) ;  ?>
+<?php header( 'Location: /index.html' ) ;  ?>
